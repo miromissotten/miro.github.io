@@ -2558,6 +2558,19 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
 				}
+				
+				.wrapper.stylex_1 .icon.major:before {
+					color: #F68F50;
+				}
+				.wrapper.stylex_2 .icon.major:before {
+					color: #FCBC59;
+				}
+				.wrapper.stylex_3 .icon.major:before {
+					color: #FEDD58;
+				}
+				.wrapper.stylex_4 .icon.major:before {
+					color: #605DA0;
+				}
 
 /* Image */
 
@@ -3262,6 +3275,19 @@ input, select, textarea {
 		.wrapper.style3-alt {
 			background-color: #953d75;
 		}
+		
+		.wrapper.stylex_1 {
+			color: #F68F50;
+		}
+		.wrapper.stylex_2 {
+			color: #FCBC59;
+		}
+		.wrapper.stylex_3 {
+			color: #FEDD58;
+		}
+		.wrapper.stylex_4 {
+			color: #605DA0;
+		}
 
 		.wrapper.fullscreen {
 			display: -moz-flex;
@@ -3874,7 +3900,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("images/milad-fakurian-E8Ufcyxz514-unsplash.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
